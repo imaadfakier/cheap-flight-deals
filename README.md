@@ -1,2 +1,2 @@
-# cheap-flight-deals
+# Cheap Flight Deals
 Find cheap flight deals to any destination.
